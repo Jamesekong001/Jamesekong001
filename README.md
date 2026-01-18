@@ -1,3 +1,5 @@
+[![MasterHead](https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOK3330cHHqcLqteOy9MNGsN9sxKUO_PcTg&s)]
+
 <h1 align="center">Hi 👋, I'm JAMES EKONG</h1>
 <h3 align="center">A passionate Business Analyst and STEM EDUCATOR</h3>
 
@@ -13,7 +15,7 @@
 
 - ⚡ Fun fact **I think I'm very organized**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:jamesekong114@gmail</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/james-ekong-10615523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/james-ekong-10615523b/" height="30" width="40" /></a>
 </p>
