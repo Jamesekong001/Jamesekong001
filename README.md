@@ -1,4 +1,4 @@
-[![MasterHead](https://chatgpt.com/s/m_696d8f08663881918d47514911238a68)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/im...)]
 <h1 align="center">Hi 👋, I'm JAMES EKONG</h1>
 <h3 align="center">A passionate Business Analyst and STEM EDUCATOR</h3>
 
